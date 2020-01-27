@@ -1,0 +1,7 @@
+md5: 8d948594cdd94ae8e9b65032b5e3303a
+outs:
+- md5: 5d800362426b62fb2a764b37aaad454e.dir
+  path: fsoco
+  cache: true
+  metric: false
+  persist: false
